@@ -29,3 +29,9 @@ Note: There is a simple issue about the payment gateway , it will be fixed soon.
 
 
 ## Image Samples.
+![Screenshot 2024-04-09 at 01-37-24 Home](https://github.com/MohammedQa7/Simple-Airbnb-Clone-/assets/92910729/ba67971f-9550-4f1d-97f4-6f7bb17cfdd7)
+![Screenshot 2024-04-09 at 01-41-11 Home](https://github.com/MohammedQa7/Simple-Airbnb-Clone-/assets/92910729/69636b10-4727-421d-8b0e-69a1d045bc52)
+![Screenshot 2024-04-09 at 01-37-59 Home](https://github.com/MohammedQa7/Simple-Airbnb-Clone-/assets/92910729/9c08c2e7-66c2-444b-ba65-bec2c92616d5)
+![Screenshot 2024-04-09 at 01-37-04 Home](https://github.com/MohammedQa7/Simple-Airbnb-Clone-/assets/92910729/17dbb6cf-f2fb-4ba1-8dec-cace144bb927)
+![Screenshot 2024-04-09 at 01-45-23 Home](https://github.com/MohammedQa7/Simple-Airbnb-Clone-/assets/92910729/6227600a-395e-4fe9-82f3-c482f32a7efa)
+
