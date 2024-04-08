@@ -111,12 +111,12 @@
                                         <span class="text-danger" style="font-size: 14px">{{ $message }}</span> 
                                         @enderror
                                     </div>
-                                    <div>
-                                        <input id="card-cvc" class="input_field  card-cvc" type="number" name="cvv" title="CVV" placeholder="CVV" @error('cvv') style="border-color: red" @enderror>
-                                        @error('cvv')
-                                        <span class="text-danger" style="font-size: 14px">{{ $message }}</span> 
-                                        @enderror
-                                    </div>
+                                </div>
+                                <div class="w-100 mb-3">
+                                    <input id="card-cvc" class="input_field  w-100 card-cvc" type="number" name="cvv" title="CVV" placeholder="CVV" @error('cvv') style="border-color: red" @enderror>
+                                    @error('cvv')
+                                    <span class="text-danger" style="font-size: 14px">{{ $message }}</span> 
+                                    @enderror
                                 </div>
                                 </div>
                               </div>
