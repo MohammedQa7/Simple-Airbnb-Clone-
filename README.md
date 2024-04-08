@@ -31,8 +31,4 @@ Note: There is a simple issue about the payment gateway , it will be fixed soon.
 ## Image Samples.
 
 ![Images!](/laravel/Website-images/Home.png)
-![Images!](/laravel/Website-images/Home2.png)
-![Images!](/laravel/Website-images/Home3.png)
-![Images!](/laravel/Website-images/Home4.png)
-![Images!](/laravel/Website-images/Home5.png)
 
